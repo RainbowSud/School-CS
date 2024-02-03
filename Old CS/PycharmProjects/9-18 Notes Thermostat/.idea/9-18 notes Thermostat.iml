@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../9-18 Notes Thermostat" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Swenson-Benjamin-Assn0" />
+    <orderEntry type="module" module-name="Swenson-Benjamin-Assn1" />
+    <orderEntry type="module" module-name="Swenson-Benjamin-Assn2" />
+    <orderEntry type="module" module-name="9-18 notes" />
+    <orderEntry type="module" module-name="9-16 Notes" />
+    <orderEntry type="module" module-name="9-14 notes" />
+    <orderEntry type="module" module-name="9-9 notes" />
+    <orderEntry type="module" module-name="Turle notes" />
+    <orderEntry type="module" module-name="Formatting" />
+    <orderEntry type="module" module-name="GMT time" />
+    <orderEntry type="module" module-name="Messing Around" />
+    <orderEntry type="module" module-name="9-2-notes" />
+  </component>
+</module>
